@@ -1,0 +1,15 @@
+{
+  "name": "ai-club-day1",
+  "type": "module",
+  "scripts": {
+    "task": "tsx"
+  },
+  "dependencies": {
+    "openai": "^4.85.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
